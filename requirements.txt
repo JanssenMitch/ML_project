@@ -1,7 +1,7 @@
 numpy
 pandas
 yfinance
-keras=3.3.3
+keras="3.3.3"
 streamlit
 plotly
 matplotlib
